@@ -1,5 +1,5 @@
 #!/bin/bash
-# Coded by: thelinuxchoice (Don't change, noob!)
+# Coded by: thelinuxchoice 
 # www.github.com/thelinuxchoice
 # www.instagram.com/thelinuxchoice
 
